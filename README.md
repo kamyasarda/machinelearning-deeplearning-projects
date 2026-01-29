@@ -4,7 +4,18 @@ A collection of machine learning and deep learning projects demonstrating predic
 
 Projects Overview
 
-1. Agricultural Loan Repayment Prediction
+Career Path Prediction Using Multiple Intelligence Theory
+File: careerdata.ipynb
+Applied machine learning to predict suitable career professions based on Howard Gardner's Multiple Intelligence scores.
+
+Algorithms: Random Forest Classifier, K-Means Clustering (k=3), Hierarchical Clustering (Ward's method)
+Features: Eight intelligence dimensions—Linguistic, Musical, Bodily-Kinesthetic, Logical-Mathematical, Spatial-Visualization, Interpersonal, Intrapersonal, Naturalist
+Analysis Methods: Elbow method for optimal cluster identification, dendrogram analysis, feature importance ranking
+Findings: Identified distinct career personality clusters and determined which intelligence traits most strongly predict specific professional paths
+
+______________________________
+
+Agricultural Loan Repayment Prediction
 File: jayalaxmiagro23jan.ipynb
 Applied logistic regression to predict agricultural loan repayment status using demographic and financial data from 1,218 farmers in Karnataka, India.
 Algorithm: Logistic Regression
